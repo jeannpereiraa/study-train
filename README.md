@@ -1,1 +1,1 @@
-# sturdy-train
+# study-train
